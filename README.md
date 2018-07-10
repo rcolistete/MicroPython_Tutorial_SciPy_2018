@@ -1,6 +1,7 @@
 # Scientific MicroPython on Microcontrollers
 ## SciPy 2018 Tutorial
 Austin-TX, July 10th 2018
+
 Presenter : Roberto Colistete Jr.
 
 [**MicroPython**](http://micropython.org/) is a free and open source implementation of Python 3 optimised to run on a microcontroller with MHz and tens of Kbytes of RAM, giving a low-level Python operating system running interactive prompt or scripts.
@@ -13,6 +14,7 @@ The presenter will bring with him 30 kits (for 30 attendees), each one composed 
 - 1 pressure/humidity/temperature I2C sensor, [BME280](https://www.bosch-sensortec.com/bst/products/all_products/bme280);
 - 1 accelerometer+gyroscope I2C sensor, [MPU6050](https://www.invensense.com/products/motion-tracking/6-axis/mpu-6050/);
 - jumper cables.
+
 The attendee should bring a microUSB cable to connect his/her notebook to the microcontroller board.
 
 Learning goals from attendees point of view :
