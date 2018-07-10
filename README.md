@@ -1,5 +1,5 @@
 # Scientific MicroPython on Microcontrollers
-## SciPy 2018 Tutorial
+## [SciPy 2018 Tutorial](https://scipy2018.scipy.org/ehome/299527/711308/)
 Austin-TX, July 10th 2018
 
 Presenter : Roberto Colistete Jr.
